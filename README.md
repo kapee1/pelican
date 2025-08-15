@@ -31,3 +31,13 @@ I ordered the prototype from Rapid Direct in PEI Ultem — the price and quality
 
 ## Specs:  
 ![image](https://github.com/user-attachments/assets/149a157d-f2a1-4352-ad83-324d7582476b)  
+
+
+
+## Updates:  
+15.08.24 — increased the width of the case cutouts to fit more PCBs.
+
+Before:
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/596b440c-6873-4b40-ae50-0923a456e065" />
+After: 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/caf790f0-7f06-4379-aa07-9dedadd399d2" />
